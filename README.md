@@ -1,4 +1,4 @@
-### Olá Devs, eu sou o Bruno 👋
+### Olá Devs, meu nome é Bruno Netto 👋
 
 <a target="_blank" href="https://www.linkedin.com/in/bruno-netto-77434b187/">
   <img align="left" alt="LinkdeIN" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -11,11 +11,12 @@
 ----
 
 Atualmente trabalho com desenvolvimento Front End, tenho 19 anos, e estou vivendo a minha primeira experiência profissional.
-Passo boa parte do meu tempo estudando ou trabalhando, mas nas minhas horas vagas gosto de andar de skate para dar uma respirada.
+
+Passo boa parte do meu tempo trabalhando ou estudando, mas nas minhas horas vagas gosto de andar de skate para dar uma respirada.
 
 ----
 
-#### Tecnologias que mais uso no momento: 
+#### Tecnologias que mais uso: 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -26,5 +27,6 @@ Passo boa parte do meu tempo estudando ou trabalhando, mas nas minhas horas vaga
 ----
 
 
-![Bruno Netto GitHub Stats](https://github-readme-stats.vercel.app/api?username=nettobruno&show_icons=true)
+![Bruno Netto github stats](https://github-readme-stats.vercel.app/api?username=nettobruno&show_icons=true&theme=onedark)
 
+Que bom que chegou até aqui e conheceu um pouco sobre mim, mas infelizmente eu ainda não te conheço e adoraria que isso acontecesse. Sinta-se a vontade para entrar em contato 😄
