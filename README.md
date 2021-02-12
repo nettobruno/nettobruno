@@ -13,7 +13,7 @@
 
 Atualmente trabalho com desenvolvimento Front End, tenho 19 anos, e estou vivendo a minha primeira experiência profissional.
 
-Passo boa parte do meu tempo trabalhando ou estudando, mas nas minhas horas vagas gosto de andar de skate para dar uma respirada.
+Passo boa parte do meu tempo trabalhando ou estudando, mas nas minhas horas vagas gosto de andar de skate para me distrair um pouco.
 
 ----
 
