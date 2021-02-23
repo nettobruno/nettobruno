@@ -30,11 +30,9 @@ Passo boa parte do meu tempo trabalhando ou estudando, mas nas minhas horas vaga
 
 ----
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
 ![Bruno Netto github stats](https://github-readme-stats.vercel.app/api?username=nettobruno&show_icons=true&theme=onedark)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nettobruno&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 Que bom que chegou até aqui e conheceu um pouco sobre mim, mas infelizmente eu ainda não te conheço e adoraria que isso acontecesse. Sinta-se a vontade para entrar em contato 😄
