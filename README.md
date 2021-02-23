@@ -32,7 +32,7 @@ Passo boa parte do meu tempo trabalhando ou estudando, mas nas minhas horas vaga
 
 
 ![Bruno Netto github stats](https://github-readme-stats.vercel.app/api?username=nettobruno&show_icons=true&theme=onedark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nettobruno&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nettobruno&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Que bom que chegou até aqui e conheceu um pouco sobre mim, mas infelizmente eu ainda não te conheço e adoraria que isso acontecesse. Sinta-se a vontade para entrar em contato 😄
