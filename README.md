@@ -13,6 +13,8 @@
 
 Atualmente trabalho com desenvolvimento Front End, tenho 19 anos, e estou vivendo a minha primeira experiência profissional.
 
+No meu trabalho as tecnologias que utilizo diáriamente são ReactJS e React Native, mas tenho vontade de aprender alguma linguagem de Back End.
+
 Passo boa parte do meu tempo trabalhando ou estudando, mas nas minhas horas vagas gosto de andar de skate para me distrair um pouco.
 
 ----
@@ -33,6 +35,6 @@ Passo boa parte do meu tempo trabalhando ou estudando, mas nas minhas horas vaga
 ![Bruno Netto github stats](https://github-readme-stats.vercel.app/api?username=nettobruno&show_icons=true&theme=onedark)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nettobruno&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="3            00px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
 Que bom que chegou até aqui e conheceu um pouco sobre mim, mas infelizmente eu ainda não te conheço e adoraria que isso acontecesse. Sinta-se a vontade para entrar em contato 😄
