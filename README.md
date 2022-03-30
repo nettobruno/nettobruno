@@ -4,7 +4,7 @@
 
 Meu nome é **Bruno Netto**, tenho 20 anos , atualmente trabalho com desenvolvimento Front End React, e sou desenvolvedor Júnior.
 
-No meu trabalho as tecnologias que utilizo diáriamente são ReactJS, React Native e Expo, mas tenho vontade de aprender alguma linguagem de Back End.
+No meu trabalho as tecnologias que utilizo diáriamente são ReactJS e NextJS, mas tenho vontade de aprender alguma linguagem de Back End.
 
 Passo boa parte do meu tempo trabalhando ou estudando, mas nas minhas horas vagas gosto de andar de skate para me distrair um pouco.
 
