@@ -22,7 +22,7 @@ Passo boa parte do meu tempo trabalhando ou estudando, mas nas minhas horas vaga
   <img height="30em" src="https://img.shields.io/badge/GIT-E34F26?style=for-the-badge&logo=git&logoColor=white">
   <img height="30em" src="https://img.shields.io/badge/INSOMNIA-5201CB?style=for-the-badge&logo=insomnia&logoColor=white">
   <img height="30em" src="https://img.shields.io/badge/GITHUB-2D333B?style=for-the-badge&logo=github&logoColor=white">
-  <img height="30em" src="  https://img.shields.io/badge/BOOTSTRAP-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img height="30em" src="https://img.shields.io/badge/BOOTSTRAP-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
 
 ----
