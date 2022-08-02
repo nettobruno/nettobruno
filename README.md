@@ -42,6 +42,3 @@ Passo boa parte do meu tempo trabalhando ou estudando, mas nas minhas horas vaga
   <img height="30em" src="https://img.shields.io/badge/EMAIL-BB001B?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <br>
-
-![Visitor Count](https://profile-counter.glitch.me/{nettobruno}/count.svg)
-
