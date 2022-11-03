@@ -21,6 +21,7 @@ Me apaixonei por programação quando era criança e via meu irmão mais velho p
   <img height="30em" src="https://img.shields.io/badge/GIT-E34F26?style=for-the-badge&logo=git&logoColor=white">
   <img height="30em" src="https://img.shields.io/badge/BITBUCKET-2684FF?style=for-the-badge&logo=bitbucket&logoColor=white">
   <img height="30em" src="https://img.shields.io/badge/STORYBOOK-F2437E?style=for-the-badge&logo=storybook&logoColor=white">
+  <img height="30em" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 </div>
 </br>
 
@@ -42,6 +43,7 @@ Me apaixonei por programação quando era criança e via meu irmão mais velho p
     <img height="30em" src="https://img.shields.io/badge/GITHUB-2D333B?style=for-the-badge&logo=github&logoColor=white">
     <img height="30em" src="https://img.shields.io/badge/VITE-141414?style=for-the-badge&logo=vite&logoColor=white">
     <img height="30em" src="https://img.shields.io/badge/VERCEL-2D333B?style=for-the-badge&logo=vercel&logoColor=white">
+    <img height="30em" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </div>
 
 ----
