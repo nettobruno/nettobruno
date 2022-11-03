@@ -40,8 +40,9 @@ Me apaixonei por programação quando era criança e via meu irmão mais velho p
     <img height="30em" src="https://img.shields.io/badge/notion-20232A?style=for-the-badge&logo=notion&logoColor=white">
     <img height="30em" src="https://img.shields.io/badge/INSOMNIA-5201CB?style=for-the-badge&logo=insomnia&logoColor=white">
     <img height="30em" src="https://img.shields.io/badge/GITHUB-2D333B?style=for-the-badge&logo=github&logoColor=white">
+    <img height="30em" src="https://img.shields.io/badge/VITE-141414?style=for-the-badge&logo=vite&logoColor=white">
+    <img height="30em" src="https://img.shields.io/badge/VERCEL-2D333B?style=for-the-badge&logo=vercel&logoColor=white">
 </div>
-</br>
 
 ----
 
