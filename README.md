@@ -22,7 +22,7 @@ Me apaixonei por programação quando era criança e via meu irmão mais velho p
   <img height="30em" src="https://img.shields.io/badge/GIT-E34F26?style=for-the-badge&logo=git&logoColor=white">
   <img height="30em" src="https://img.shields.io/badge/BITBUCKET-2684FF?style=for-the-badge&logo=bitbucket&logoColor=white">
   <img height="30em" src="https://img.shields.io/badge/STORYBOOK-F2437E?style=for-the-badge&logo=storybook&logoColor=white">
-  <img height="30em" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+  <img height="30em" src="https://img.shields.io/badge/MacOS-18242F?style=for-the-badge&logo=apple&logoColor=white">
 </div>
 </br>
 
@@ -34,6 +34,8 @@ Me apaixonei por programação quando era criança e via meu irmão mais velho p
     <img height="30em" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
     <img height="30em" src="https://img.shields.io/badge/tailwindcss-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white">
     <img height="30em" src="https://img.shields.io/badge/BOOTSTRAP-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <img height="30em" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+    <img height="30em" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 </div>
 </br>
 
