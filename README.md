@@ -6,8 +6,9 @@ Meu nome é **Bruno Netto**, tenho 21 anos, e atualmente trabalho com desenvolvi
 
 Me apaixonei por programação quando era criança e via meu irmão mais velho programar. No início a única coisa que me chamava atenção eram as letras coloridas no editor de texto, mas depois de um tempo fui me interessando pelas coisas incríveis que podemos fazer através de código.
 
-- 🎨 Tenho muito interesse em enteder sobre Design.
+- 🎨 Tenho muito interesse em Design, e estou me envolvendo cada vez mais nesse meio.
 - 👨🏾‍💻 Tenho pouco mais de 2 anos de experiência em desenvolvimento.
+- 👥 Já fiz algumas palestras, e gosto muito de poder ajudar as pessoas que estão entrando no Mundo da Tecnologia.
 - 🔗 Caso tenha interesse em ver meus projetos em funcionamento, e ter mais informações minhas, acesse o [meu site](https://brunonetto.vercel.app).
 
 ----
