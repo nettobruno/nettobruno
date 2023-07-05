@@ -2,7 +2,7 @@
 
 ----
 
-Meu nome é **Bruno Netto**, tenho 21 anos, e atualmente trabalho com desenvolvimento Front End na UOL - Universo Online.
+Meu nome é **Bruno Netto**, tenho 22 anos, e atualmente trabalho com desenvolvimento Front End na UOL - Universo Online.
 
 Me apaixonei por programação quando era criança e via meu irmão mais velho programar. No início a única coisa que me chamava atenção eram as letras coloridas no editor de texto, mas depois de um tempo fui me interessando pelas coisas incríveis que podemos fazer através de código.
 
