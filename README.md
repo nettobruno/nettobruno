@@ -9,7 +9,7 @@ Me apaixonei por programação quando era criança e via meu irmão mais velho p
 - 🎨 Tenho focado em Design System, e estou me envolvendo cada vez mais nesse meio.
 - 👨🏾‍💻 Tenho pouco mais de 3 anos de experiência em desenvolvimento.
 - 👥 Já fiz algumas palestras. Gosto muito de poder ajudar as pessoas que estão entrando no Mundo da Tecnologia.
-- 🔗 Caso tenha interesse em ver meus projetos em funcionamento, e ter mais informações minhas, acesse o [meu site](https://brunonetto.vercel.app).
+- 🔗 Caso tenha interesse em ver meus projetos em funcionamento e ter mais informações minhas, acesse o [meu site](https://brunonetto.vercel.app).
 
 ----
 
